@@ -10,9 +10,11 @@ Bu proje, Ethem Küçük'ün portfolyo sitesini tanıtmak ve görsel örnekler s
 
 Bu portfolyo sitesindeki görseller aşağıdaki gibi sıralanmıştır:
 
-1. `1.png` 
-2. `2.png` 
-3. `3.png` 
+1. ![Açıklama](1.png)
+
+2. ![Açıklama](2.png)
+   
+4. ![Açıklama](3.png)
 
 ## Kullanım
 
